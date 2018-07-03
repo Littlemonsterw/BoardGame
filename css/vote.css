@@ -33,7 +33,7 @@ body {
     margin: 10px;
 }
 
-.audio {
+.play {
 	margin-top: 50px;
 }
 
@@ -54,12 +54,28 @@ body {
     left: 5em;
 }
 
-.audio-text {
+.play-text {
 	line-height: 50px;
 	margin: 0 2em;
-	font-size: 1.6rem;
+	font-size: 1.5rem;
+	letter-spacing: 0.1rem;
 }
 
 .hint {
 	color: #FFFFFF;
+	font-size: 1.5rem;
+	letter-spacing: 0.1rem;
+	position: relative;
+	top: 1em;
+	left: 4.7em;
+}
+
+.audio-start {
+	display: block;
+	width: 26px; height: 26px;
+    background: url('../imgs/vote_sprites.png') -10px -110px;
+    float: right;
+    position: relative;
+    bottom: 2.7em;
+    right: 1em;
 }

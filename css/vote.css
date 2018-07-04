@@ -82,7 +82,7 @@ body {
 }
 
 .footer {
-	height: 90px;
+	height: 100px;
 }
 
 .btn {
@@ -105,16 +105,41 @@ body {
 .number {
 	display: block;
 	width: 5.1em;
-	height: 1.1em;
+	height: 1.25em;
 	background-color: #82AF99;
 	color: #FFFFFF;
-	font-size: 0.5em;
+	font-size: 0.4em;
 }
 
 .identity {
-	line-height: 4em;
+	line-height: 3.9em;
 }
 
 .row {
 	padding-bottom: 3em;
+}
+
+.icon-1 {
+	display: inline-block;
+	width: 30px; height: 30px;
+    background: url('../imgs/vote_sprites.png') -10px -10px;
+    background-size: 20px;
+}
+
+.icon-2 {
+	display: inline-block;
+	width: 28px; height: 27px;
+    background: url('../imgs/vote_sprites.png') -110px -10px;
+}
+
+.icon-3 {
+	display: inline-block;
+	width: 30px; height: 30px;
+    background: url('../imgs/vote_sprites.png') -60px -10px;
+}
+
+.icon-4 {
+	display: inline-block;
+	width: 30px; height: 30px;
+    background: url('../imgs/vote_sprites.png') -10px -60px;
 }

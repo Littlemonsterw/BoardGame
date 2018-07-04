@@ -1,0 +1,57 @@
+.container-fluid {
+	text-align: center;
+}
+
+.navbar {
+	background-color: #29BDE0;
+}
+
+.home {
+    margin: 10px;
+    float: left;
+}
+
+.title {
+	color: #FFFFFF;
+	font-size: 1.5em;
+	line-height: 50px;
+	letter-spacing: 0.1em;
+}
+
+.tip {
+	float: right;
+    margin: 12px;
+}
+
+.footer {
+	background-color: rgba(41,189,224,0.5);
+	height: 80px;
+}
+
+.content-footer {
+	margin-top: 15px;
+}
+
+.btn {
+	width: 45%;
+	font-size: 2rem !important;
+	color: #FFFFFF !important;
+	border-radius: 8px !important;
+}
+
+.again {
+	background-color: #F66F6F !important;
+	margin: 6px !important;
+}
+
+.upload {
+	background-color: #FBB435 !important;
+	margin: 6px !important;
+}
+
+.logo {
+	display: block;
+	width: 230px;
+	height: 135px;
+	margin: 0 auto;
+}

@@ -124,3 +124,13 @@ body {
 	float: left;
 	margin: 2px;
 }
+
+a {
+	color: #999999 !important;
+	text-decoration: none !important;
+}
+
+a:visited {
+	color: #999999;
+	text-decoration: none;
+}

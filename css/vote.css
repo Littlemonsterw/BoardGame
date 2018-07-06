@@ -86,7 +86,7 @@ body {
 }
 
 .footer {
-	height: 120px;
+	height: 80px;
 }
 
 .btn {
@@ -97,7 +97,7 @@ body {
 }
 
 .middle {
-	height: 65%;
+	height: 70%;
 	overflow: auto;
 	position: relative;
 	top: 150px;
@@ -162,4 +162,9 @@ body {
 	display: inline-block;
     width: 16px; height: 16px;
     background: url('../imgs/vote_sprites.png') -10px -106px;
+}
+
+a {
+	color: #FFFFFF !important;
+	text-decoration: none !important;
 }

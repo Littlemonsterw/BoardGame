@@ -66,9 +66,9 @@
 .result p {
 	color: #FFC865;
 	text-align: center;
-	font-size: 2rem;
+	font-size: 1.7rem;
 	font-weight: bold;
-	margin-bottom: 2em;
+	margin-bottom: 0.5em;
 }
 
 .result-count {
@@ -77,10 +77,13 @@
 	letter-spacing: 0.1rem;
 }
 
+.info {
+	height: 88vh;
+	overflow: auto;
+}
+
 .content {
 	background-color: #FFFFFF;
-	margin-top: 1em;
-	height: 26rem;
 	overflow: auto;
 }
 

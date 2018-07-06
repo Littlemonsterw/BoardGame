@@ -39,7 +39,6 @@ body {
 
 .content {
 	width: 100%;
-	height: 85vh;
 	border: 1px solid #FFFFFF;
 	background-color: #FFFFFF;
 }
@@ -102,7 +101,8 @@ body {
 
 .slide {
 	width: 4em;
-	margin: 0 auto;
+	height: 1.5em;
+	margin: 1em auto;
 	padding-top: 0.5em;
 }
 
@@ -129,6 +129,11 @@ body {
 a {
 	color: #999999 !important;
 	text-decoration: none !important;
+}
+
+.cotent-info {
+	height: 98vh;
+	overflow: auto;
 }
 
 /*a:visited {
